@@ -8,3 +8,5 @@ Análisis estadístico de la base de datos METABRIC para el cáncer de mama.
 - Paula Cubero Recio (b22curep@uco.es)
 - Leo Alza Blanco (t22albll@uco.es)
 - Andrea Zurita Campos (b22zucaa@uco.es)
+
+## Paquetes
