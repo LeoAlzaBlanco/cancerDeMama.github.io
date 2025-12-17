@@ -6,6 +6,8 @@ title: |
 author: "Andrea Zurita, Leo Alza, Lucia Güeto y Paula Cubero"
 data: "`r Sys.Date()`"
 output:
+  github_document:
+    html_preview: false
   html_document:
     toc: true
     toc_float: true
