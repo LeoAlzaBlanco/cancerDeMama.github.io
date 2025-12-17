@@ -344,7 +344,7 @@ Por último, en el T-test se obtiene un valor de p=3.488 x 10 <sup>-8</sup>. Est
 
 Tras analizar estadísticamente las variables tamaño del tumor y tipo de cirugía, los resultados muestran un tamaño medio de tumor de 26,16 mm. La mediana es de 23 mm, lo que indica que existe una distribución equilibrada o simétrica, ya que no se observa mucha variabilidad entre el tamaño de los tumores. 
 
-La desviación estándar es de 15,03, esto indica que el tamaño del tumor varía considerablemente entre las pacientes. La mayoría de los casos de diagnóstico se encuentran entre las edades de 11 y 41 años. El valor mínimo de tamaño del tumor es de 1 mm, mientras que el tamaño máximo es de 182 mm.
+La desviación estándar es de 15,03, esto indica que el tamaño del tumor varía considerablemente entre las pacientes. La mayoría de los tamaños de los tumores se encuentran entre 11 y 41 mm. El valor mínimo de tamaño del tumor es de 1 mm, mientras que el tamaño máximo es de 182 mm.
 
 En el T-test se obtiene un valor de p=2,2 x 10 <sup>-16</sup>. Este dato es menor a 0,05 lo que refleja que existen diferencias significativas entre el tamaño de los tumores y el tipo de cirugia realizada. Por lo tanto, **se rechaza la hipótesis nula y se acepta la hipótesis alternativa**: "**El tamaño medio del tumor de las mujeres con mastectomia es mayor al tamaño medio de las que conservaron el pecho**".
 
